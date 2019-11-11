@@ -1,0 +1,1 @@
+This is a project to look at spectral classification using machine learning in Python. I haven't used machine learning before. It's an adventure.
